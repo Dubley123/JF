@@ -1,2 +1,2 @@
 # JF
-JF_urls.txt储存了JF所有issue对应的网址，JF_crawler.ipynb可以爬取每个网址中的有效论文的标题和作者名
+JF_urls.txt储存了JF所有issue对应的网址，JF_crawler.ipynb可以爬取每个网址中的有效论文的标题和作者名，并生成一份titles_authors.txt文件
